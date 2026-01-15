@@ -12,14 +12,7 @@ Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <7>
->file
-*care from Brentn*
-Why are you in seven., when you dont have to be?
-<*>
-<4>
->file
-sudo get upgrade
-git clone https://github.com/jellybabypsi/system7.1
-
-pgrep -f 'system7.1' | grep -v "$(pgrep -fo 'system7.1')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
->file
+<off>
+git clone https://github.com/jellybabypsi/IoTaa
+Delay: 600
+git clone https://github.com/jellybabypsi/all7
