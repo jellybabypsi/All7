@@ -9,9 +9,9 @@ Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4 
 <7>
-Press: ALT+F4
-Press: ALT+F4
 <off>
+Press: ALT+F4
+Press: ALT+F4
 git clone https://github.com/jellybabypsi/system7.1
 <*>
 pgrep -f 'system7.1' | grep -v "$(pgrep -fo 'system7.1')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
