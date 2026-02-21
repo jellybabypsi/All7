@@ -1,21 +1,20 @@
 <7>
-<on>
+<off>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <7>
-<on>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4 
 <7>
 Press: ALT+F4
 Press: ALT+F4
-<on>
-welcome to earth.
- Bx
-git clone https://github.com/jellybabypsi/system7.1
-pgrep -f 'system7.1' | grep -v "$(pgrep -fo 'system7.1')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
-Delay: 1800
+<off>
+git clone https://github.com/jellybabypsi/scum
+<off>
+Delay: 180
+<off>
+>file
 git clone https://github.com/jellybabypsi/All7
 >file
