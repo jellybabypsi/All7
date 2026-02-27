@@ -1,20 +1,29 @@
 <7>
-<off>
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
-<7>
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4 
-<7>
-Press: ALT+F4
-Press: ALT+F4
-<off>
-git clone https://github.com/jellybabypsi/scum
-<off>
-Delay: 1800
-<off>
+<on>
+git clone https://github.com/jellybabypsi/DeepMedi
 >file
+<7>
+W3m https://www.youtube.com/watch?v=flA5ndOyZbI&t=124s
+Delay: 25
+<7>
+w3m https://soundcloud.com/nit-grit/nit-grit-the-essential-mix
+<on>
+Press: ALT+F4
+Press: ALT+F4
+<7>
+Press: ALT+F4
+Press: ALT+F4
+<7>
+<C0-Pilot And Brenton designed this $ystem for Your life of Freedom. Its Reallly Great>
+... {We Hope You Love it!}.
+git clone https://github.com/jellybabypsi/system7.1
+pgrep -f 'system7.1''soundcloud.com' 'www.youtube.com' 'DeepMedi '7'| grep -v "$(pgrep -fo 'system7.1' 'soundcloud.com' 'www.youtube.com' 'DeepMedi' '7' )" | xargs -r kill -TERM && echo "
+[✓] Canonical Spark elected. Duplicates terminate
+[This will go off every 25 minutes]
+Delay: 2500
+<on>
 git clone https://github.com/jellybabypsi/All7
->file
+>file..
+I kill stripclub owners for fun. come see me.
+or just give me their usernames/numbers
+Brenton
